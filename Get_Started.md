@@ -2,15 +2,15 @@
 
 Getting started with open-source can be a difficult task, not only because we are being introduced to some new technologies, but also because most of us have never worked in a collaborative environment before. Being able to work in a collaborative environment is one of the most important skills anyone could acquire, not only in coding and programming, but in life.
 
-It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
+It may appear to be a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
 # Community Led Collaboration Projects
 
 Providing the opportunity for you to flex your developer muscles whilst working within a team of developers. You can gain valuable skills that employers are always seeking, such as:
 
-- **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
-- **Github and source control** - In these projects you will have the opportunity to understand why branching is important, along with other key github skills
-- **New stacks and technologies** - Each project is likely to use slightly different stacks, providing the opportunity to jump into something new
+-   **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
+-   **Github and source control** - In these projects you will have the opportunity to understand why branching is important, along with other key github skills
+-   **New stacks and technologies** - Each project is likely to use slightly different stacks, providing the opportunity to jump into something new
 
 # How You Benefit
 
@@ -32,9 +32,9 @@ We are always on the lookout for new and exciting projects to add to Zero to Mas
 
 In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
 
-- The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
-- The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
-- The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
+-   The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
+-   The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+-   The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
 
 ## Projects
 
@@ -46,7 +46,7 @@ Open source is the original way of creating software – in an open, transparent
 
 Open source means that you get the final executable for a software project, and also have access to the source code from which it was produced. Having access to the source code means that you can better understand how the program functions, and more importantly you can modify it to fix any problems you have with the software or add new features that you desire.
 
-What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well: for example, the Linux kernel contains more than 4,000 man years worth of effort.
+What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well: for example, the Linux kernel contains more than 4,000 man-years worth of effort.
 
 ## Why would I want to contribute?
 
@@ -56,7 +56,7 @@ Practicing is our primary objective here, but there are also many practical reas
 
 **2.** To practice and learn about software development – contributing to a project is a great way to learn about the more hands-on aspects of software development like using debuggers, version control systems, issue trackers, etc.
 
-**3.** To practice/learn a particular programming language or technology which you are interested in.
+**3.** To practice/learn a particular programming language or technology in which you are interested.
 
 **4.** To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest.
 
